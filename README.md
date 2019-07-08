@@ -15,4 +15,9 @@ This script is intended for the end-users who work on OSS version of JFrog Artif
 3. make a REST API call and download the artifact, save it to the File System
 
 
+# python packages 
+
+I have used the packages which come along with Python installer. The same can be achieved by using pandas, bs4, and many more packages. But, I work from a restricted environment without internet connectivity. So, I have used lambdas, arraylist, dictonaries, json, requests to achieve the same.
+
 #                 Feel free to enhance this code
+ As mentioned, I haven't used any external/additional libraries which require installation outside of Python. I look forward to enhancement of this code in a similar fashion. Why use a custom package when you can code it yourself? :) 
